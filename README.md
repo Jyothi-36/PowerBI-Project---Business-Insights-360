@@ -158,7 +158,7 @@ Fact table : It will have the data about the transactions
 - Following good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Star Schema data modeling method.
 
-<img src="C:\Users\user\OneDrive\Desktop\Data Model.png" class="center">
+<img src="![Data Model](https://github.com/user-attachments/assets/54314d39-4106-41dc-9dca-d7e1aaf4d1d0)" class="center">
 
 ### Dashboard designing
 
@@ -178,7 +178,8 @@ In Home view, for all the views, button will be available. User will land on spe
 
 ## Overall Report
 
-![Overall Report.gif](C:\Users\user\Downloads\overall_video)
+
+(https://github.com/user-attachments/assets/5c31b258-b86e-4ef3-b43a-99132aada0af)
 
 
 
