@@ -179,8 +179,7 @@ In Home view, for all the views, button will be available. User will land on spe
 
 ## Overall Report
 
-[
-(https://github.com/Jyothi-36/PowerBI-Project---Business-Insights-360/commit/ff35c2fbd1199a9f827cca660249e7cd13d8a07a)
+https://github.com/user-attachments/assets/acc1ec84-c730-4fef-86ec-35ce656c0eff
 
 
 
@@ -190,5 +189,5 @@ you can find the full report file here In **"About"** section of this Repository
 
 By using this report, decisions can be taken based on the data. Further it will help in answering *n* number of **why** questions based on the situations.
 
-You can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiYjQxZjYyYWUtZjBiMi00MDk4LThhOGEtYzRjYWE2ZjVjYzM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**You can find the full report file here :** [Report](https://app.powerbi.com/view?r=eyJrIjoiYjQxZjYyYWUtZjBiMi00MDk4LThhOGEtYzRjYWE2ZjVjYzM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
