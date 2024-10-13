@@ -158,11 +158,12 @@ Fact table : It will have the data about the transactions
 - Following good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Star Schema data modeling method.
 
-<img src="![Data Model](https://github.com/user-attachments/assets/54314d39-4106-41dc-9dca-d7e1aaf4d1d0)" class="center">
+<img src="https://github.com/user-attachments/assets/9b424208-2ca5-4121-b91a-7ab6037c6769" class="center">
 
 ### Dashboard designing
 
 Based on the mockups received as requirement, the team will start designing the visuals and create measures as and when required.
+(https://github.com/user-attachments/assets/5c4e19f7-9186-49d7-a096-da4fd3e54f04)
 
 ## Home view
 
