@@ -163,7 +163,7 @@ Fact table : It will have the data about the transactions
 ### Dashboard designing
 
 Based on the mockups received as requirement, the team will start designing the visuals and create measures as and when required.
-(https://github.com/user-attachments/assets/5c4e19f7-9186-49d7-a096-da4fd3e54f04)
+
 
 ## Home view
 
@@ -180,7 +180,7 @@ In Home view, for all the views, button will be available. User will land on spe
 ## Overall Report
 
 
-"https://github.com/user-attachments/assets/b011feb0-598e-4196-8b37-4b742c67c9c2"
+(https://github.com/user-attachments/assets/6f2d9a2e-caf1-43cd-8d89-6b8944d4d15c)
 
 
 
@@ -189,4 +189,6 @@ you can find the full report file here In **"About"** section of this Repository
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering *n* number of **why** questions based on the situations.
+
+You can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiYjQxZjYyYWUtZjBiMi00MDk4LThhOGEtYzRjYWE2ZjVjYzM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
